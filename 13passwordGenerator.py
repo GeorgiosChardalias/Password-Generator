@@ -4,7 +4,7 @@ import pyperclip
 import random
 screen = Tk()
 screen.title("bob")
-screen.geometry('700x400')
+screen.geometry('700x150')
 letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "1234567890"
 symbols = "!@#$&"
